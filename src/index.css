@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: rgb(255, 196, 0); 
+    background-image: url("https://cdn.dribbble.com/users/909752/screenshots/4136107/media/09ca2f45dbc88629f24baeba566ad0af.gif");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+}
